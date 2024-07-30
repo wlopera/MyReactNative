@@ -7,7 +7,8 @@ documento: doc/React Native - TutorialPoint.docx
 ![image](https://github.com/user-attachments/assets/dbfd5b4f-d935-44a0-b5e9-734825b8336e)
 ![image](https://github.com/user-attachments/assets/b2ec6c2a-2fd8-4b61-a97c-435ef4e26a57)
 ![image](https://github.com/user-attachments/assets/7cb49d4c-e571-4af3-af0f-804b8f85f7f4)
-![image](https://github.com/user-attachments/assets/c2d6d3f4-dc98-4649-abed-697005a60c1f)
+![image](https://github.com/user-attachments/assets/b21308b4-7b17-4041-86cf-9d6bb6acf577)
+
 
 ## Documentación
 Puedes ver el documento completo del proyecto en formato PDF desde el siguiente enlace:
